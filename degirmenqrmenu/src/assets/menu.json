@@ -192,6 +192,15 @@
         "description_kz": "",
         "image": "./img/puflavas.webp",
         "price": "900 тг"
+      },
+      {
+        "id": 21,
+        "name_ru": "Хычины",
+        "name_kz": "Хычины",
+        "description_ru": "с сыром",
+        "description_kz": "Iрімшікпен",
+        "image": "./img/hicini.webp",
+        "price": "1900 тг"
       }
     ]
   }
