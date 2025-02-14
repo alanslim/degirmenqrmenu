@@ -1,0 +1,33 @@
+
+
+body {
+
+  background-image: url("./img/oldwood.webp");
+  background-color: rgb(39, 37, 37);
+}
+
+.card {
+  width: 75%;
+  gap: 25px;
+  align-items: center;
+  padding: 20px;
+}
+
+.food-list {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+
+.logo {
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 50px;
+}
+
+.logo img {
+  width: 30%;
+}
