@@ -8,26 +8,40 @@ export default function FoodCardComponent({
   price,
   description_ru,
   description_kz,
+  bgr,
 }) {
-
   const [show, setShow] = useState(false);
   return (
     <>
-    <Card>
-      <Card.Img    onClick={() => setShow(true)}  src={src} alt={name_ru} className="w-50 text-center" />
-      <Card.Body>
-        <Card.Title>{name_ru}</Card.Title>
-        <Card.Title>{name_kz}</Card.Title>
-        <Card.Text>{description_ru}</Card.Text>
-        <Card.Text>{description_kz}</Card.Text>
-        <Card.Text><b>{price}</b></Card.Text>
-      </Card.Body>
-    </Card>
+      <Card
+        style={{
+          backgroundImage: `url(${bgr})`,
+          backgroundSize: "cover",
+          backgroundPosition: "center",
+        }}
+      >
+        <Card.Img
+          onClick={() => setShow(true)}
+          src={src}
+          alt={name_ru}
+          className="w-40"
+        />
+        <Card.Body>
+          <Card.Title>{name_ru}</Card.Title>
+          <Card.Title>{name_kz}</Card.Title>
+          <Card.Text>{description_ru}</Card.Text>
+          <Card.Text>{description_kz}</Card.Text>
+          <Card.Text>
+            <b>{price}</b>
+          </Card.Text>
+        </Card.Body>
+      </Card>
 
-    <Modal show={show} onHide={() => setShow(false)} centered>
+      <Modal show={show} onHide={() => setShow(false)} centered>
         <Modal.Body className="text-center">
           <img src={src} alt={name_ru} className="w-100" />
         </Modal.Body>
       </Modal>
-    </>  );
+    </>
+  );
 }

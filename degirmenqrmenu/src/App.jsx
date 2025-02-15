@@ -27,6 +27,7 @@ function App() {
                 description_ru={food.description_ru}
                 description_kz={food.description_kz}
                 price={food.price}
+                bgr={food.bgr}
               />
             ))}
           </div>

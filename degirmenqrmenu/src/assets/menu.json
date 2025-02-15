@@ -8,7 +8,8 @@
         "description_ru": "Помидоры, огурцы, говядина, зелень, оливковое масло, соевый соус, лимон",
         "description_kz": "Қызанақ, қияр, сиыр еті, көк шөп, зәйтүн майы, соя тұздығы, лимон",
         "image": "./img/japonsalata.webp",
-        "price": "2600 тг"
+        "price": "2600 тг",
+        "bgr": "./img/cream_background.webp"
       },
       {
         "id": 1,
@@ -17,7 +18,8 @@
         "description_ru": "Копченая курица, салат “айсберг”, помидоры “черри”, сыр “моцарелла”, зелень, чеснок, сухарики, майонез",
         "description_kz": "Ысталған тауық еті, айсберг шөбі, черри қызанағы, моцарелла ірімшігі, көк шөп, сарымсақ, кептірілген нан, майонез",
         "image": "./img/caesar.webp",
-        "price": "2200 тг"
+        "price": "2200 тг",
+        "bgr": "./img/cream_background.webp"
       },
       {
         "id": 2,
@@ -26,7 +28,8 @@
         "description_ru": "Перец, помидоры, огурцы, лист салата, оливковое масло, лимон",
         "description_kz": "Бұрыш, қызанақ, қияр, салат жапырағы, пияз, зәйтүн майы, лимон",
         "image": "./img/kasik.webp",
-        "price": "2200 тг"
+        "price": "2200 тг",
+        "bgr": "./img/cream_background.webp"
       },
       {
         "id": 3,
@@ -35,7 +38,8 @@
         "description_ru": "Жареные баклажаны, сыр “фета”, перец, помидоры “черри”, листья салата, чеснок, кунжут, руккола, итальянский соус",
         "description_kz": "Қуырылған баялды, фета ірімшігі, бұрыш, черри қызанағы, салат жапырақтары, сарымсақ, күнжіт, рукола, итальян тұздығы",
         "image": "./img/caesar.webp",
-        "price": "2700 тг"
+        "price": "2700 тг",
+        "bgr": "./img/cream_background.webp"
       },
       {
         "id": 4,
@@ -44,7 +48,8 @@
         "description_ru": "Нут, тахини, чеснок, оливковое масло, лимон, тмин, красный перец молотый",
         "description_kz": "Ноқат, тахини, сарымсақ, зәйтүн майы, лимон, зире, ұнтақталған қызыл бұрыш",
         "image": "./img/humus.webp",
-        "price": "1800 тг"
+        "price": "1800 тг",
+        "bgr": "./img/cream_background.webp"
       },
       {
         "id": 5,
@@ -53,7 +58,8 @@
         "description_ru": "Йогурт, баклажан, тахини, чеснок, молотый красный перец, оливковое масло",
         "description_kz": "Йогурт, баялды, тахини, сарымсақ, ұнтақталған қызыл бұрыш, зәйтүн майы",
         "image": "./img/mutebbel.webp",
-        "price": "1800 тг"
+        "price": "1800 тг",
+        "bgr": "./img/cream_background.webp"
       },
       {
         "id": 6,
@@ -62,7 +68,8 @@
         "description_ru": "Огурцы маринованные, перец, помидоры, лук, чеснок, зелень",
         "description_kz": "Маринадталған қияр, бұрыш, қызанақ, пияз, сарымсақ, көк шөп",
         "image": "./img/ezme.webp",
-        "price": "1700 тг"
+        "price": "1700 тг",
+        "bgr": "./img/cream_background.webp"
       },
       {
         "id": 7,
@@ -71,7 +78,8 @@
         "description_ru": "Свекла, чеснок, майонез",
         "description_kz": "Қызылша, сарымсақ, майонез",
         "image": "./img/pancar.webp",
-        "price": "1500 тг"
+        "price": "1500 тг",
+        "bgr": "./img/cream_background.webp"
       },
       {
         "id": 8,
@@ -80,7 +88,8 @@
         "description_ru": "Баклажаны, красный перец, зеленый перец, лук, чеснок, помидоры",
         "description_kz": "Баялды, қызыл бұрыш, жасыл бұрыш, пияз, сарымсақ, қызанақ",
         "image": "./img/babakanush.webp",
-        "price": "1800 тг"
+        "price": "1800 тг",
+        "bgr": "./img/cream_background.webp"
       },
       {
         "id": 9,
@@ -89,7 +98,8 @@
         "description_ru": "Помидор, перец, лук",
         "description_kz": "Қызанақ, бұрыш, пияз",
         "image": "./img/achichuk.webp",
-        "price": "1500 тг"
+        "price": "1500 тг",
+        "bgr": "./img/cream_background.webp"
       },
       {
         "id": 10,
@@ -98,7 +108,8 @@
         "description_ru": "Огурцы, айран, мята",
         "description_kz": "Қияр, айран, жалбыз",
         "image": "./img/cacik.webp",
-        "price": "1600 тг"
+        "price": "1600 тг",
+        "bgr": "./img/cream_background.webp"
       },
       {
         "id": 11,
@@ -107,10 +118,10 @@
         "description_ru": "Картофель, морковь, яйца, колбаса, огурцы, зеленый горошек, майонез",
         "description_kz": "Картоп, сәбіз, жұмыртқа,шұжық, қияр, жасыл бұршақ, майонез",
         "image": "./img/olivye.webp",
-        "price": "1500 тг"
+        "price": "1500 тг",
+        "bgr": "./img/cream_background.webp"
       }
-
-    ], 
+    ],
     "Пиде": [
       {
         "id": 12,
@@ -119,34 +130,38 @@
         "description_ru": "",
         "description_kz": "",
         "image": "./img/pide.webp",
-        "price": "2200 тг"
+        "price": "2200 тг",
+        "bgr": "./img/cream_background.webp"
       },
       {
         "id": 13,
-        "name_ru":  "Пиде с фаршем",
+        "name_ru": "Пиде с фаршем",
         "name_kz": "Тартылған етпен пиде",
         "description_ru": "",
         "description_kz": "",
         "image": "./img/pide.webp",
-        "price": "2500 тг"
+        "price": "2500 тг",
+        "bgr": "./img/cream_background.webp"
       },
       {
         "id": 14,
-        "name_ru":  "Пиде с мясом",
-        "name_kz":"Етпен пиде", 
+        "name_ru": "Пиде с мясом",
+        "name_kz": "Етпен пиде",
         "description_ru": "",
         "description_kz": "",
         "image": "./img/pide.webp",
-        "price": "2600 тг"
+        "price": "2600 тг",
+        "bgr": "./img/cream_background.webp"
       },
       {
         "id": 15,
         "name_ru": "Пиде с мясом и сыром",
-        "name_kz": "Ет және ірімшікпен пиде", 
+        "name_kz": "Ет және ірімшікпен пиде",
         "description_ru": "",
         "description_kz": "",
         "image": "./img/pide.webp",
-        "price": "2700 тг"
+        "price": "2700 тг",
+        "bgr": "./img/cream_background.webp"
       },
       {
         "id": 16,
@@ -155,7 +170,8 @@
         "description_ru": "фарш, мелко рубленое мясо, сыр",
         "description_kz": "Тартылған ет, майдалап туралған ет, ірімшік",
         "image": "./img/pide.webp",
-        "price": "2900 тг"
+        "price": "2900 тг",
+        "bgr": "./img/cream_background.webp"
       },
       {
         "id": 17,
@@ -164,8 +180,9 @@
         "description_ru": "",
         "description_kz": "",
         "image": "./img/pide.webp",
-        "price": "2300 тг"
-      }, 
+        "price": "2300 тг",
+        "bgr": "./img/cream_background.webp"
+      },
       {
         "id": 18,
         "name_ru": "Пиде с яйцом и сыром",
@@ -173,8 +190,9 @@
         "description_ru": "",
         "description_kz": "",
         "image": "./img/pide.webp",
-        "price": "2300 тг"
-      } , 
+        "price": "2300 тг",
+        "bgr": "./img/cream_background.webp"
+      },
       {
         "id": 19,
         "name_ru": "Лахмаджун",
@@ -182,7 +200,8 @@
         "description_ru": "1 шт",
         "description_kz": "1 дана",
         "image": "./img/lahmacun.webp",
-        "price": "1800 тг"
+        "price": "1800 тг",
+        "bgr": "./img/cream_background.webp"
       },
       {
         "id": 20,
@@ -191,7 +210,8 @@
         "description_ru": "",
         "description_kz": "",
         "image": "./img/puflavas.webp",
-        "price": "900 тг"
+        "price": "900 тг",
+        "bgr": "./img/cream_background.webp"
       },
       {
         "id": 21,
@@ -200,8 +220,33 @@
         "description_ru": "с сыром",
         "description_kz": "Iрімшікпен",
         "image": "./img/hicini.webp",
-        "price": "1900 тг"
+        "price": "1900 тг",
+        "bgr": "./img/cream_background.webp"
       }
+    ],
+    "Пицца": [
+      {
+        "id": 22,
+        "name_ru": "Маргарита",
+        "name_kz": "Маргарита",
+        "description_ru": "Помидоры, сыр, томатный соус",
+        "description_kz": "Қызанақ, ірімшік, томат тұздығы",
+        "image": "./img/cheesesticks.webp",
+        "price": "35 см - 2750 тг, 40см - 3200 тг",
+        "bgr": "./img/cream_background.webp"
+      },
+      {
+        "id": 23,
+        "name_ru": "Пепперони",
+        "name_kz": "Пепперони",
+        "description_ru": "Колбаса, сыр, томатный соус",
+        "description_kz": "Шұжық, ірімшік, томат тұздығы",
+        "image": "./img/pizza.webp",
+        "price": "35 см - 2950 тг, 40см - 3400 тг",
+        "bgr": "./img/cream_background.webp"
+      }
+
+
     ]
   }
 }
