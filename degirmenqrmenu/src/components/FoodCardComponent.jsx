@@ -31,7 +31,7 @@ export default function FoodCardComponent({
           <Card.Title>{name_kz}</Card.Title>
           <Card.Text>{description_ru}</Card.Text>
           <Card.Text>{description_kz}</Card.Text>
-          <Card.Text>
+          <Card.Text className="prices">
             <b>{price}</b>
           </Card.Text>
         </Card.Body>
